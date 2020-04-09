@@ -2,8 +2,6 @@
 using namespace std;
 
 int main() {
-	ofstream o;
-	o.open("output.txt",ios::out);
 	vector<int> v;
 	int sum,limit;
 	cin>>sum>>limit;
